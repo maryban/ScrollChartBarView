@@ -1,6 +1,9 @@
 # ScrollChartBarView
 可滑动的柱形图chartView
 
+实现效果：
+
+
 实现步骤：
 
 1.自定义一个UIView，用来呈现整个图表。
